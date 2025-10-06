@@ -1,0 +1,264 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 6 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<<
+/Length 2500
+>>
+stream
+BT
+/F1 24 Tf
+250 720 Td
+(PREM THAKKAR) Tj
+ET
+
+BT
+/F2 10 Tf
+210 700 Td
+(Software Engineer | Full Stack Developer) Tj
+ET
+
+BT
+/F2 9 Tf
+50 670 Td
+(Email: prem.thakkar@rutgers.edu  |  Phone: +1 \(732\) 580-9010) Tj
+ET
+
+BT
+/F2 9 Tf
+170 655 Td
+(GitHub: github.com/premthakkar  |  LinkedIn: linkedin.com/in/prem-thakkar) Tj
+ET
+
+BT
+/F1 14 Tf
+50 625 Td
+(SUMMARY) Tj
+ET
+
+BT
+/F2 10 Tf
+50 605 Td
+(Passionate software engineer with expertise in full-stack development, AI/ML integration,) Tj
+0 -15 Td
+(and building scalable solutions. Experienced in React, TypeScript, Python, and cloud) Tj
+0 -15 Td
+(technologies. Strong problem-solver with a track record of delivering impactful projects.) Tj
+ET
+
+BT
+/F1 14 Tf
+50 540 Td
+(EDUCATION) Tj
+ET
+
+BT
+/F1 11 Tf
+50 520 Td
+(Rutgers University) Tj
+ET
+
+BT
+/F2 10 Tf
+450 520 Td
+(2021 - 2025) Tj
+ET
+
+BT
+/F2 10 Tf
+50 505 Td
+(Bachelor of Science in Computer Science  |  GPA: 3.8/4.0) Tj
+ET
+
+BT
+/F1 14 Tf
+50 470 Td
+(EXPERIENCE) Tj
+ET
+
+BT
+/F1 11 Tf
+50 450 Td
+(Software Engineering Intern - Tech Innovations Inc.) Tj
+ET
+
+BT
+/F2 10 Tf
+380 450 Td
+(Jun 2024 - Aug 2024) Tj
+ET
+
+BT
+/F2 9 Tf
+50 435 Td
+(• Developed RESTful APIs using Node.js and Express, serving 10K+ daily requests) Tj
+0 -12 Td
+(• Implemented Redis caching layer, reducing database query time by 40%) Tj
+0 -12 Td
+(• Collaborated with cross-functional teams using Agile methodologies) Tj
+0 -12 Td
+(• Wrote comprehensive unit tests achieving 85% code coverage) Tj
+ET
+
+BT
+/F1 11 Tf
+50 375 Td
+(Full Stack Developer - Campus Solutions Lab) Tj
+ET
+
+BT
+/F2 10 Tf
+395 375 Td
+(Jan 2023 - May 2024) Tj
+ET
+
+BT
+/F2 9 Tf
+50 360 Td
+(• Built responsive web applications using React, TypeScript, and TailwindCSS) Tj
+0 -12 Td
+(• Designed and maintained PostgreSQL databases with optimized query performance) Tj
+0 -12 Td
+(• Integrated third-party APIs including Stripe, SendGrid, and AWS S3) Tj
+0 -12 Td
+(• Mentored 3 junior developers in modern web development best practices) Tj
+ET
+
+BT
+/F1 14 Tf
+50 300 Td
+(PROJECTS) Tj
+ET
+
+BT
+/F1 10 Tf
+50 280 Td
+(AI Music Generator) Tj
+ET
+
+BT
+/F2 9 Tf
+180 280 Td
+(| React, Python, MusicGen, Whisper API, AWS) Tj
+ET
+
+BT
+/F2 9 Tf
+50 267 Td
+(• Built web app generating custom music tracks from text prompts using AI) Tj
+0 -12 Td
+(• Deployed on AWS with scalable serverless architecture) Tj
+ET
+
+BT
+/F1 10 Tf
+50 235 Td
+(Smart Campus Navigator) Tj
+ET
+
+BT
+/F2 9 Tf
+180 235 Td
+(| React Native, Firebase, Google Maps API, TypeScript) Tj
+ET
+
+BT
+/F2 9 Tf
+50 222 Td
+(• React Native app with real-time indoor navigation using Bluetooth beacons) Tj
+0 -12 Td
+(• Used by 2000+ students for campus wayfinding) Tj
+ET
+
+BT
+/F1 14 Tf
+50 180 Td
+(TECHNICAL SKILLS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 160 Td
+(Languages: JavaScript, TypeScript, Python, Java, SQL, HTML/CSS) Tj
+0 -15 Td
+(Frameworks: React, Node.js, Django, Express, Next.js, TailwindCSS) Tj
+0 -15 Td
+(Tools: Git, AWS, Docker, Firebase, MongoDB, PostgreSQL) Tj
+0 -15 Td
+(Other: REST APIs, Agile/Scrum, CI/CD, Unit Testing, System Design) Tj
+ET
+
+BT
+/F1 14 Tf
+50 80 Td
+(CERTIFICATIONS & HONORS) Tj
+ET
+
+BT
+/F2 9 Tf
+50 60 Td
+(• AWS Certified Solutions Architect - Associate) Tj
+0 -12 Td
+(• Dean's List - Fall 2022, Spring 2023, Fall 2023) Tj
+0 -12 Td
+(• President - Computer Science Club) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000015 00000 n
+0000000068 00000 n
+0000000125 00000 n
+0000000274 00000 n
+0000000353 00000 n
+0000000428 00000 n
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+2979
+%%EOF

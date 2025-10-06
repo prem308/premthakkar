@@ -1,0 +1,175 @@
+{
+  "name": "Prem Thakkar",
+  "contact": {
+    "phone": "(609) 929-8029",
+    "email": "prem.thakkar@rutgers.edu",
+    "github": "https://github.com/prem308",
+    "linkedin": "http://www.linkedin.com/in/prem-thakkar-6352b3239",
+    "location": "New Jersey"
+  },
+  "summary": "Data Science graduate with a strong Computer Science foundation, skilled in machine learning, statistical modeling, and data engineering. Experienced in Python, SQL, and cloud platforms, delivering scalable, data-driven solutions through predictive modeling and pipeline optimization.",
+  "education": [
+    {
+      "institution": "Rutgers University, New Brunswick, NJ",
+      "degree": "Master of Science in Data Science",
+      "gpa": "3.55/4.0",
+      "dates": "09/2024 – current"
+    },
+    {
+      "institution": "Shiv Nadar Institute of Eminence, Greater Noida, India",
+      "degree": "BTech in Computer Science",
+      "gpa": "7.0/10.0",
+      "dates": "2020 – 2024"
+    },
+    {
+      "institution": "Atmiya Vidya Mandir, Surat, India",
+      "degree": "12th Grade",
+      "score": "95%",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Artificial Intelligence Intern",
+      "company": "Loki Technologies LLC",
+      "dates": "June/2025 - August/2025",
+      "responsibilities": [
+        "Fine-tuned Meta's LLaMA 4 model to build a domain-specific chatbot for the company website, improving automated support and user interaction using advanced prompt engineering and model optimization.",
+        "Built an interactive dashboard using Lovable AI, integrated with a custom REST API connected to a Microsoft Azure SQL Database, enabling real-time data visualization and business insights."
+      ]
+    },
+    {
+      "title": "Backend Developer Intern",
+      "company": "Broadview Innovations Pvt Ltd.",
+      "dates": "Jan/2024 – June/2024",
+      "responsibilities": [
+        "Developed a gas sensor integrated with IoT technology, capable of detecting CO, CO2, PM1.0, PM2.5, PM10.0, humidity, and temperature, and transmitting the data wirelessly.",
+        "Implemented backend code using APIs to send the collected sensor data to an online database, where it is sorted and displayed on a user-specific website for easy access and monitoring."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Car Damage Detection",
+      "year": "2025",
+      "website": "N/A",
+      "details": [
+        "Collected the car images and annotated them using ROBOFLOW.",
+        "Trained using YOLO v11 on 600 epochs.",
+        "Best model achieved 90.8% precision and 85.3% recall."
+      ]
+    },
+    {
+      "name": "InstaBuild: AI MicroWebApp Builder",
+      "type": "Hackathon Project",
+      "award": "HACKNJIT Winner",
+      "year": "2024",
+      "website": "https://www.instabuild.tech/",
+      "details": [
+        "Used Gemini API to generate source code for web applications.",
+        "Model was trained specifically for React-based applications.",
+        "The generated code was locally hosted for user preview and editing."
+      ]
+    },
+    {
+      "name": "MÜSICA: AI Music Generator",
+      "year": "2024",
+      "website": "N/A",
+      "details": [
+        "Used MusicGen (Microsoft) and Whisper (Text-to-speech).",
+        "Beats generated with MusicGen; lyrics with ChatGPT API.",
+        "Synced lyrics and beats using Whisper with fine-tuning on Kaggle datasets."
+      ]
+    },
+    {
+      "name": "Sentiment Analysis: Amazon Product Reviews",
+      "year": "2023",
+      "website": "N/A",
+      "details": [
+        "Web-scraped live product review data from URLs.",
+        "Stored data in JSON format, analyzed sentiment scores (-1 to 1).",
+        "Computed average sentiment score to rate products."
+      ]
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "id": "languages",
+        "title": "Programming Languages",
+        "items": [
+          { "name": "Python", "level": 5, "years": 4 },
+          { "name": "SQL", "level": 5, "years": 4 },
+          { "name": "R", "level": 3, "years": 2 },
+          { "name": "HTML/CSS", "level": 4, "years": 4 },
+          { "name": "TypeScript", "level": 4, "years": 2 }
+        ]
+      },
+      {
+        "id": "frameworks",
+        "title": "Frameworks & Libraries",
+        "items": [
+          { "name": "React", "level": 4, "years": 3 },
+          { "name": "Tailwind CSS", "level": 4, "years": 3 },
+          { "name": "Django", "level": 3, "years": 2 },
+          { "name": "Quarto", "level": 3, "years": 1 }
+        ]
+      },
+      {
+        "id": "data-ml",
+        "title": "Data & ML",
+        "items": [
+          { "name": "Machine Learning", "level": 4, "years": 3 },
+          { "name": "Data Mining & Analysis", "level": 4, "years": 3 },
+          { "name": "LLM Finetuning", "level": 3, "years": 1 },
+          { "name": "Power BI", "level": 3, "years": 2 },
+          { "name": "Advanced Excel", "level": 4, "years": 5 }
+        ]
+      },
+      {
+        "id": "cloud-tools",
+        "title": "Cloud, Dev & Tools",
+        "items": [
+          { "name": "AWS", "level": 3, "years": 1 },
+          { "name": "Azure SQL", "level": 3, "years": 1 },
+          { "name": "Git & GitHub", "level": 4, "years": 4 }
+        ]
+      },
+      {
+        "id": "spoken",
+        "title": "Spoken Languages",
+        "items": [
+          { "name": "English", "proficiency": "Fluent" },
+          { "name": "Hindi", "proficiency": "Fluent" },
+          { "name": "Gujarati", "proficiency": "Fluent" }
+        ]
+      }
+    ],
+    "featured": ["Python", "SQL", "React", "Machine Learning", "AWS", "LLM Finetuning"],
+    "legend": {
+      "level_max": 5,
+      "level_labels": {
+        "1": "Novice",
+        "2": "Beginner",
+        "3": "Intermediate",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    }
+  },
+  "honorsActivities": [
+    {
+      "title": "HACKNJIT Winner",
+      "year": "2024",
+      "description": "Won the hackathon with InstaBuild web app project."
+    },
+    {
+      "title": "GDSC Member",
+      "dates": "2022 – 2023",
+      "description": "Organized two hackathons with 1000+ participants."
+    }
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner"
+  ]
+}
