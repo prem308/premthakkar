@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://prem308.github.io/premthakkar",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
